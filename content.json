@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "name": "Ighawosa Omoma",
+    "title": "AI Automation Engineer",
+    "subtitle": "Power Platform Developer & Intelligent Process Automation Specialist",
+    "location": "Lagos, Nigeria",
+    "tagline": "I design the pipelines that move enterprise data through automation, AI agents, and back into the hands of the people who need it.",
+    "email": "ighawosa.omoma@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ighawosa-omoma",
+    "github": ""
+  },
+  "about": {
+    "summary": "Results-driven Power Platform Developer with 2+ years of experience delivering enterprise low-code solutions using Power Apps, Power Automate (Cloud & Desktop), Copilot Studio, Power BI, Dataverse, and SharePoint Online. Strong background in business process automation, AI-driven conversational agents, and Power Platform governance within regulated enterprise environments.",
+    "facts": [
+      { "label": "Currently", "value": "Business Process Automation Engineer, FirstBank Nigeria" },
+      { "label": "Education", "value": "B.Eng. Electrical/Electronics Engineering, University of Benin" },
+      { "label": "Honors", "value": "First Class \u2014 CGPA 4.63 / 5.00" },
+      { "label": "Based in", "value": "Lagos, Nigeria" }
+    ]
+  },
+  "metrics": [
+    { "value": "80%+", "label": "Manual effort reduced through end-to-end automation" },
+    { "value": "1st", "label": "Copilot Studio AI agent built at FirstBank Nigeria" },
+    { "value": "10+", "label": "Production automations shipped across banking operations" },
+    { "value": "4.63/5.00", "label": "First Class Honours, Electrical/Electronics Engineering" }
+  ],
+  "skills": [
+    {
+      "category": "AI & Conversational Agents",
+      "items": ["Copilot Studio", "AI Agent Development", "Prompt Engineering", "RAG Concepts", "AI Workflow Design", "Intelligent Document Processing"]
+    },
+    {
+      "category": "Microsoft Power Platform",
+      "items": ["Power Apps (Canvas / Model-Driven)", "Power Automate (Cloud & Desktop)", "Dataverse", "SharePoint Online", "Power BI", "Environment Management & Security Roles"]
+    },
+    {
+      "category": "Robotic Process Automation",
+      "items": ["UI & Browser Automation", "Desktop Automation", "API Automation", "Exception Handling", "Process Logging"]
+    },
+    {
+      "category": "Development",
+      "items": ["JavaScript", "TypeScript", "Angular", "HTML / CSS", "Tailwind CSS"]
+    },
+    {
+      "category": "Data & Backend",
+      "items": ["SQL", "Oracle SQL", "REST APIs", "JSON", "Python", "Pandas"]
+    },
+    {
+      "category": "Governance & DevOps",
+      "items": ["Application Lifecycle Management (ALM)", "Data Loss Prevention (DLP) Policies", "Dev / Staging / Production Strategy"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise Product Knowledge AI Agent",
+      "tag": "Copilot Studio \u00b7 Dataverse",
+      "input": "Staff queries on internal product information",
+      "process": "Copilot Studio conversational agent grounded in a governed Dataverse knowledge source, with structured topics and fallback handling",
+      "output": "Instant, accurate product answers \u2014 the first agent of its kind built at FirstBank Nigeria",
+      "tech": ["Copilot Studio", "Dataverse", "Power Automate"]
+    },
+    {
+      "name": "Excel-to-Dataverse Data Pipeline",
+      "tag": "Power Automate \u00b7 Dataverse",
+      "input": "Legacy, unstructured Excel product records",
+      "process": "Automated ingestion with validation, error-handling, and data-integrity checks before commit",
+      "output": "A structured, searchable Dataverse dataset powering the AI knowledge agent",
+      "tech": ["Power Automate", "Dataverse", "Dataflows"]
+    },
+    {
+      "name": "Email & Document Hyperautomation",
+      "tag": "Power Apps \u00b7 RPA \u00b7 SharePoint",
+      "input": "High-volume email requests and attachments",
+      "process": "Cloud flow triggers hand off to desktop RPA bots, which process content into SharePoint and notify users via a live dashboard",
+      "output": "80%+ reduction in manual operational effort and faster turnaround",
+      "tech": ["Power Apps", "Power Automate", "RPA", "SharePoint"]
+    },
+    {
+      "name": "Enterprise Synergy Collaboration Platform",
+      "tag": "Power Apps \u00b7 SharePoint",
+      "input": "Cross-department requests needing multi-level sign-off",
+      "process": "Multi-level approval workflow with dynamic status tracking and automated notifications",
+      "output": "Unified cross-location collaboration with full progress visibility",
+      "tech": ["Power Apps", "SharePoint", "Power Automate"]
+    },
+    {
+      "name": "World-Check Login RPA Bot",
+      "tag": "Power Automate Desktop",
+      "input": "Scheduled compliance screening checks",
+      "process": "Secure browser automation handling credentials, login, and error recovery",
+      "output": "Reliable, unattended compliance checks with enterprise-grade error handling",
+      "tech": ["Power Automate Desktop", "RPA"]
+    },
+    {
+      "name": "API-to-Database Automation Bot",
+      "tag": "REST APIs \u00b7 SQL",
+      "input": "External REST API data feeds",
+      "process": "Consumes and parses JSON responses, transforms data, and inserts into a production database",
+      "output": "A production-ready sync between external services and internal systems",
+      "tech": ["Power Automate Desktop", "REST APIs", "SQL"]
+    }
+  ],
+  "exploring": [
+    {
+      "name": "Loan Approval Prediction (AI/ML)",
+      "desc": "A Python and Pandas machine learning pipeline on Kaggle data \u2014 preprocessing, exploratory analysis, and a loan-approval prediction model. In progress."
+    },
+    {
+      "name": "Energy CRM Platform",
+      "desc": "An early-stage concept for a CRM built for energy and utility providers \u2014 customer management, ticketing, and AI-assisted support in one workflow."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Business Process Automation Engineer",
+      "company": "FirstBank Nigeria",
+      "location": "Lagos, Nigeria",
+      "period": "Nov 2023 \u2014 Present",
+      "bullets": [
+        "Built the bank's first Copilot Studio-based product knowledge conversational agent, enabling staff to retrieve governed product information through a Dataverse knowledge source.",
+        "Designed an automated Excel-to-Dataflow-to-Dataverse pipeline to maintain structured, searchable, up-to-date product data for conversational retrieval.",
+        "Implemented logging, error handling, and controlled grounding to improve agent reliability, auditability, and governance.",
+        "Developed and deployed several Power Apps integrated with Dataverse and SharePoint Online to streamline enterprise banking operations.",
+        "Automated end-to-end processes with Power Automate Cloud Flows, reducing manual effort by 80%+.",
+        "Pioneered a Power Apps\u2013Power Automate\u2013RPA integration pattern that monitored bot-generated emails, processed content and attachments into SharePoint, notified users via dashboard, and routed responses back to the bot for continued automation.",
+        "Partnered with PMO, Control, Compliance, and business teams to deliver compliant, scalable automation solutions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Benin",
+      "degree": "B.Eng., Electrical/Electronics Engineering",
+      "location": "Benin City, Nigeria",
+      "period": "2015 \u2014 2021",
+      "details": [
+        "First Class Honours \u2014 CGPA 4.63 / 5.00",
+        "Thesis: Design, Simulation, and Testing of a Model Automation System for an Injection Substation"
+      ]
+    }
+  ]
+}
