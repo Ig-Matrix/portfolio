@@ -102,7 +102,7 @@ Connecting any of the above to this GitHub repo means the workflow becomes: edit
 
 ## Contact
 
-- **Email**: your-email@example.com
+- **Email**: ighawosa.omoma@gmail.com.com
 - **LinkedIn**: [linkedin.com/in/ighawosa-omoma](https://www.linkedin.com/in/ighawosa-omoma)
 
 ## License
